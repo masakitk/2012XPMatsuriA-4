@@ -1,9 +1,8 @@
 ƒZƒbƒVƒ‡ƒ“–¼FA-4 “KØ‚ÈƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ÌÝ’è‚ÉŒü‚¯‚Äyu‰‰{ƒ~ƒjƒ[ƒNƒVƒ‡ƒbƒvz
 @‰–•l —´Žu‚³‚ñA˜hè O‹Xæ¶
 ƒŒƒ|[ƒ^[–¼Fmasakitk
-‹LŽ–ƒ^ƒCƒgƒ‹F
-@
-@
+‹LŽ–ƒ^ƒCƒgƒ‹FƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔA‚Ç‚Ì‚æ‚¤‚ÉŒˆ‚ß‚Ä‚Ü‚·‚©H
+
 ‹LŽ–F
 
 [Œ©o‚µ]‚±‚ÌƒZƒbƒVƒ‡ƒ“‚ð‘I‚ñ‚¾——R
@@ -28,12 +27,12 @@ XPÕ‚è‚É1“úŽQ‰Á‚µ‚Ü‚µ‚½BƒŒƒ|[ƒg‚ð‘‚­‚É‚ ‚½‚èAƒ{ƒŠƒ…[ƒ€“I‚É‚à‚Ç‚ê‚©1ƒZƒbƒVƒ‡
 [Œ©o‚µ]ƒZƒbƒVƒ‡ƒ““à—e
 
 ‚±‚ÌƒZƒbƒVƒ‡ƒ“‚ÍA‚Ü‚¸‚Í‚¶‚ß‚Éu‰‰‚ª‚ ‚èA“r’†‚Éƒ[ƒNƒVƒ‡ƒbƒv‚ð‚â‚Á‚Ä‚»‚ÌŒã‚Ü‚½u‰‰‚Æ‚¢‚¤\¬‚É‚È‚Á‚Ä‚¢‚Ü‚µ‚½B
-u‰‰‚É‚Â‚¢‚Ä‚ÍAƒAƒƒŠƒJ‚É‚Äs‚í‚ê‚½Agile2012‚Å‚à”­•\‚µ‚½“à—e‚¾‚»‚¤‚Å‚·B‚½‚¾AAgile2012‚Å‚Íƒ[ƒNƒVƒ‡ƒbƒv‚ª
-‚Å‚«‚È‚©‚Á‚½‚Ì‚ÅA‚»‚ê‚ðXPÕ‚è‚Å‚â‚Á‚Ä‚Ý‚æ‚¤‚Æ‚¢‚¤Šé‰æ‚¾‚»‚¤‚Å‚·B
+u‰‰‚É‚Â‚¢‚Ä‚ÍAƒAƒƒŠƒJ‚É‚Äs‚í‚ê‚½Agile2012‚Å‚à”­•\‚µ‚½“à—e‚¾‚»‚¤‚Å‚·(–`“ª‚Ìˆ¥ŽA‚ª‰pŒê‚¾‚Á‚½‚Ì‚ÅA‚·‚±‚µ
+ƒrƒr‚è‚Ü‚µ‚½)B‚½‚¾AAgile2012‚Å‚Íƒ[ƒNƒVƒ‡ƒbƒv‚ª‚Å‚«‚È‚©‚Á‚½‚Ì‚ÅA‚»‚ê‚ðXPÕ‚è‚Å‚â‚Á‚Ä‚Ý‚æ‚¤‚Æ‚¢‚¤Šé‰æ‚¾‚»‚¤‚Å‚·B
 
 [Œ©o‚µ]‘O”¼u‰‰
 
-‘ˆî“c‘åŠw‚Ì‚æ‚¤‚ÉAƒAƒJƒfƒ~ƒbƒN‚ÉŒ¤‹†‚·‚él(Researcher)‚ÆAŒ»ê‚ÅŽÀ‘H‚·‚él(Practitioner)‚ÌŠÔ‚ÅA
+‘ˆî“c‘åŠw‚ÅŒ¤‹†‚³‚ê‚Ä‚¢‚é‚æ‚¤‚ÉAƒAƒJƒfƒ~ƒbƒN‚ÉŒ¤‹†‚·‚él(Researcher)‚ÆAŒ»ê‚ÅŽÀ‘H‚·‚él(Practitioner)‚ÌŠÔ‚ÅA
 Researcher‚ÍŒ¤‹†Œ‹‰Ê‚ÌResultAKnowledge‚ð’ñ‹Ÿ‚µAPractitioner‚ÍData‚ð’ñ‹Ÿ‚·‚éA‚Æ‚¢‚Á‚½‘ŠŒÝ‚ÉƒtƒB[ƒhƒoƒbƒN
 ‚µ‚ ‚Á‚ÄAAgileŠJ”­‚ð‚æ‚è‚æ‚¢‚à‚Ì‚É‚µ‚Ä‚¢‚±‚¤I‚Æ‚¢‚¤‚¨˜b‚ª‚ ‚è‚Ü‚µ‚½B
 
@@ -47,7 +46,7 @@ AgileŠJ”­‚ª¬Œ÷‚·‚é‚½‚ß‚Ì—v‘f‚Í‚¢‚ë‚ñ‚È‚à‚Ì‚ª‚ ‚é‚ªA‚±‚±‚Å‚ÍIterationŠúŠÔ‚É’–Ú
 
 ‰–•l‚³‚ñ‚ÍA“r’†‚ÅŠúŠÔ‚ð•Ï‚¦‚é‚Æ‚¢‚¤‚±‚Æ‚Í¡‰ñ‚ÌŒ¤‹†‚Å‚Í‚â‚Á‚Ä‚¢‚È‚¢‚±‚Æ‚ð’f‚Á‚½ã‚ÅAÅ‰‚É—Ç‚¢Ý’è‚ð
 ‚·‚é‚ÆƒvƒƒWƒFƒNƒg‘S‘Ì‚Æ‚µ‚Ä—Ç‚¢Œ‹‰Ê‚É‚È‚é‚Æ‚¢‚¤‚¨˜b‚ð‚³‚ê‚Ü‚µ‚½B‹ï‘Ì“I‚Ç‚Ì‚æ‚¤‚ÉŠúŠÔ‚ðŒˆ‚ß‚½‚ç‚æ‚¢‚©‚ÍA
-‘Ð‚É‚ ‚é‚æ‚¤‚ÉA1TŠÔAˆêƒ–ŒŽ‚É‚·‚é‚Ì‚ªÅ“K‚©A‚Æ‚¢‚¤‚Æ‚»‚ñ‚È‚±‚Æ‚Í‚È‚¢‚¾‚ë‚¤‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
+‚æ‚­‚ ‚é‚æ‚¤‚ÉAXP‚È‚ç1TŠÔAscrum‚È‚çˆêƒ–ŒŽ‚É‚·‚é‚Ì‚ªÅ“K‚©A‚Æ‚¢‚¤‚Æ‚»‚ñ‚È‚±‚Æ‚Í‚È‚¢‚¾‚ë‚¤‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
 
 (o“T‚ðƒƒ‚‚Á‚Ä‚È‚©‚Á‚½‚Ì‚Å‚·‚ª)AgileŠJ”­‚ÅŽ¸”s‚µ‚½Œ´ˆö‚Æ‚µ‚ÄAƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ÌÝ’è‚ð‚Ü‚¿‚ª‚¦‚½A
 ‚Æ‚¢‚¤——R‚ª‘½‚¢‚Æ‚¢‚¤’²¸Œ‹‰Ê‚ª‚ ‚é‚»‚¤‚Å‚·B
@@ -59,60 +58,71 @@ AgileŠJ”­‚ª¬Œ÷‚·‚é‚½‚ß‚Ì—v‘f‚Í‚¢‚ë‚ñ‚È‚à‚Ì‚ª‚ ‚é‚ªA‚±‚±‚Å‚ÍIterationŠúŠÔ‚É’–Ú
 
 [Œ©o‚µ]ƒ[ƒNƒVƒ‡ƒbƒv
 
-ƒ[ƒNƒVƒ‡ƒbƒvŠT—vF
+ƒ[ƒNƒVƒ‡ƒbƒvŠT—vF(à–¾Ž‘—¿‚ðŽB‰e‚µ‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½EEE)
 @1ƒe[ƒuƒ‹4`5–¼
-@ˆêl‚ªŒÚ‹q–ðAŽc‚è‚ªŠJ”­ŽÒ–ñ
-@ŒÚ‹q–ð‚Ìl‚ÉA‚ ‚é‰p’PŒê‚ð\¬‚·‚éA1‚Â‚ÌƒAƒ‹ƒtƒ@ƒxƒbƒg‚ª‘‚©‚ê‚Ä‚¢‚éƒgƒ‰ƒ“ƒv‘åƒJ[ƒh‚ª•¡”–‡“n‚³‚ê‚éB
+@ˆêl‚ªŒÚ‹q–ðAŽc‚è‚ªŠJ”­ŽÒ–ð
+@ŒÚ‹q–ð‚Ìl‚ÉA‚ ‚é‰p’PŒê‚ð\¬‚·‚éA1‚Â‚ÌƒAƒ‹ƒtƒ@ƒxƒbƒg‚ª‘‚©‚ê‚Ä‚¢‚éƒgƒ‰ƒ“ƒv‘å‚ÌƒJ[ƒh‚ª•¡”–‡“n‚³‚ê‚éB
 @ŒÚ‹q‚Í‰p’PŒê‚ð’m‚Á‚Ä‚¢‚é‚ªAŠJ”­ŽÒ‘¤‚Í’m‚ç‚È‚¢B
-@‚»‚ÌƒJ[ƒh‚ðƒVƒƒƒbƒtƒ‹‚µ‚ÄA•¶Žš‚ªŒ©‚¦‚é‚æ‚¤‚É“K“–‚É’u‚¢‚Ä‚¨‚«A‚»‚ê‚ðŠJ”­ŽÒ‚ª1–‡‚¸‚Â‚Æ‚Á‚Ä’PŒê‚É•À‚×‚Ä‚¢‚­B
+@ŒÚ‹q‚Í‚»‚ÌƒJ[ƒh‚ðƒVƒƒƒbƒtƒ‹‚µ‚ÄA•¶Žš‚ªŒ©‚¦‚é‚æ‚¤‚É“K“–‚É’u‚¢‚Ä‚¨‚«A‚»‚ê‚ðŠJ”­ŽÒ‚ª1–‡‚¸‚Â‚Æ‚Á‚Ä’PŒê‚É•À‚×‚Ä‚¢‚­B
 @1ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÌŠJŽnŽž‚ÉƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Æ‚µ‚ÄAŽd—l‚Ì“`’BAƒtƒB[ƒhƒoƒbƒN‚Ì’ñŽ¦‚ª‚Å‚«‚éB
 @‹ï‘Ì“I‚É‚ÍA
-@@E‰½•¶Žš–Ú‚É‚È‚ñ‚Ì•¶Žš‚ª—ˆ‚é‚Ì‚©‚ð“`‚¦‚é‚±‚Æ‚ª‚Å‚«‚é
+@@E‰½•¶Žš–Ú‚É‚Ç‚Ì•¶Žš‚ª—ˆ‚é‚Ì‚©‚ð“`‚¦‚é‚±‚Æ‚ª‚Å‚«‚é
 @@E¡•À‚ñ‚Å‚¢‚éƒJ[ƒh‚ðA1–‡‚¸‚Â³‚µ‚¢‚©³‚µ‚­‚È‚¢‚©‚ðŽw“E‚Å‚«‚é
 @1TŠÔ‚É3‰ñs“®‚Å‚«‚éB
 @ƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Í1‰ñ‚Ìs“®‚Æ‚È‚éB
 @ŠJ”­ŽÒ‚ÍA1‰ñ‚Ìs“®‚ÅA1–‡‚ÌƒJ[ƒh‚ð•À‚×‚é‚©’u‚«Š·‚¦‚éŽ–‚ª‚Å‚«‚éB
 @‚Â‚Ü‚èA
-@@ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð1TŠÔ‚Æ‚·‚é‚ÆA1‰ñƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚ðs‚¢A2‰ñŠJ”­ŽÒ‚ªs“®‚·‚éB
-@@ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð2TŠÔ‚Æ‚·‚é‚ÆA1‰ñƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚ðs‚¢A5‰ñŠJ”­ŽÒ‚ªs“®‚·‚éB
-@@ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð3TŠÔ‚Æ‚·‚é‚ÆA1‰ñƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚ðs‚¢A8‰ñŠJ”­ŽÒ‚ªs“®‚·‚éB
+@@ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð1TŠÔ‚Æ‚·‚é‚ÆA1‰ñƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚ðs‚¢A2‰ñŠJ”­ŽÒ‚ªs“®‚Å‚«‚éB
+@@ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð2TŠÔ‚Æ‚·‚é‚ÆA1‰ñƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚ðs‚¢A5‰ñŠJ”­ŽÒ‚ªs“®‚Å‚«‚éB
+@@ƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð3TŠÔ‚Æ‚·‚é‚ÆA1‰ñƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚ðs‚¢A8‰ñŠJ”­ŽÒ‚ªs“®‚Å‚«‚éB
 @‚Æ‚¢‚¤‚±‚Æ‚É‚È‚è‚Ü‚·B
 
-@‚±‚Ì‚æ‚¤‚ÈŒ`‚Å3‚Â‚Ì’PŒê‚Åƒ[ƒNƒVƒ‡ƒbƒv‚ðs‚¢‚Ü‚µ‚½B
-@programming
-@Ž©•ª‚ÍŠJ”­ŽÒ–ð‚É‚È‚èAÅ‰‚Ì’PŒê‚Ìì‹Æ‚ÉŽæ‚èŠ|‚©‚è‚Ü‚·B
-@Å‰‚Í1TŠÔ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚É‚µ‚Ü‚µ‚½B
-@ƒqƒ“ƒg‚Íu‚Ý‚È‚³‚ñ‚ªD‚«‚È‚à‚Ìv‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
-@“š‚¦‚Íuprogrammingv‚Å‚µ‚½B
-@‚¤‚¿‚Ìƒ`[ƒ€‚ÍƒCƒeƒŒ[ƒVƒ‡ƒ“‚ð1TŠÔ‚ÅA6TŠÔA18‰ñ‚Ìs“®‚ª‚©‚©‚è‚Ü‚µ‚½B
-@Å‰‚ÍŒŸ“¢‚à‚Â‚©‚¸AÅ‰‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Åæ“ª‚Ì•¶Žš‚¾‚¯‹³‚¦‚Ä‚à‚ç‚Á‚ÄAŽŸ‚Ìs“®‚Åp‚ð”z’uA
-@‚»‚ÌŽŸ‚Ìs“®‚ÅA“K“–‚É•ê‰¹‚ð”z’u‚µ‚Ü‚µ‚½B
-@2‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Å‚ÍA2•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚Á‚ÄA2•¶Žš–Ú‚ð“ü‚ê‘Ö‚¦3•¶Žš–Ú‚É•ê‰¹o‚ð•À‚×‚Ü‚µ‚½B
-@3‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Å‚ÍA4•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚¢Ag‚ð4•¶Žš–Ú‚É”z’uAr‚ð5•¶Žš–Ú‚É”z’u‚µ‚Ü‚µ‚½B
-@ƒI[ƒvƒ“‚³‚ê‚Ä‚¢‚½ƒJ[ƒh‚ªA‚ ‚Ü‚èƒVƒƒƒbƒtƒ‹‚³‚ê‚Ä‚¢‚È‚©‚Á‚½‚±‚Æ‚à‚ ‚èA‚±‚Ì‚ ‚½‚è‚Å‰ñ“š‚ª‚í‚©‚èA
-@‚ ‚Æ‚Í•À‚×‚Ä‚¢‚­‚Æ‚¢‚Á‚½Œ`‚É‚È‚è‚Ü‚µ‚½B
-@
-@‚â‚Á‚Ä‚Ý‚ÄŠ´‚¶‚½‚Ì‚ÍA’PŒê‚ª‚í‚©‚Á‚Ä‚µ‚Ü‚¤‚ÆAƒtƒB[ƒhƒoƒbƒN‚ª—v‚ç‚È‚­‚È‚éA‚»‚Ì•ª‚Ìs“®‚ª
-@–³‘Ê‚É‚È‚èAŠJ”­‚É‰ñ‚µ‚½‚Ù‚¤‚ªŒø—¦“I‚¾A‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
-@‚µ‚©‚µ¡‰ñ‚ÍÅ‰‚ÌŽæ‚ÁŠ|‚©‚è‚ª‚ ‚Ü‚è‚í‚©‚ç‚È‚©‚Á‚½‚Ì‚Å1TŠÔ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Å—Ç‚©‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-@
-@2‰ñ–Ú‚Ìƒqƒ“ƒg‚ÍuJava‚ÌƒNƒ‰ƒX‚Å‚·v‚Æ‚¢‚¤‚à‚ÌB
-@“š‚¦‚ÍuLinkedHashMapviŽÀÛ‚É‚Í‚·‚×‚Ä‘å•¶Žš‚ÌƒJ[ƒh‚Å‚·j
-@‚±‚ê‚àAÅ‰‚ÍŠF–ÚŒ©“–‚ª‚Â‚©‚¸A1•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚Á‚ÄƒXƒ^[ƒgB
-@2•¶Žš–ÚˆÈ~‚Í‚»‚ÌŒã‚Í“K“–‚É4•¶Žš•À‚×‚Ü‚µ‚½B
-@ŽŸ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÅA2•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚¢A‚»‚±‚ÅŽ©•ª‚ª‚í‚©‚Á‚½‚Ì‚ÅA2`5•¶Žš–Ú‚ð’u‚«Š·‚¦A
-@6•¶Žš–Ú‚ð”z’u‚µ‚Älinked‚Ü‚ÅŠ®¬A
-@3‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÅA7`11‚Ü‚Å”z’u‚µlinkedhashm‚Ü‚ÅŠ®¬
-@4‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Ì3‚Â–Ú‚Ìs“®‚Ålinkedhashmap‚ªŠ®¬‚µ‚Ü‚µ‚½B
-@2‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Å‹C‚Ã‚¢‚½‚Ì‚Å—Ç‚©‚Á‚½‚Å‚·‚ªA‚»‚±‚Å‚í‚©‚ç‚È‚©‚Á‚½‚ç–³‘Ê‚É‚È‚Á‚Ä‚µ‚Ü‚¤s“®‚ª
-@‘‚¦‚é‚È[A‚ÆŽv‚¢‚Ü‚µ‚½B
-@
-@3‰ñ–Ú‚Ìƒqƒ“ƒg‚ÍuŽÔ‚Ìƒ[ƒJ[A11•¶Žšv‚Æ‚¢‚¤‚à‚Ì‚Å‚µ‚½B
-@‚±‚ê‚ÍA‚©‚È‚è’PŒê‚ªŒÀ’è‚³‚ê‚é‚¾‚ë‚¤A‚Æ‚¢‚¤‚±‚Æ‚ÅƒI[ƒvƒ“‚³‚ê‚½ƒJ[ƒh‚ðŒ©‚Ä’PŒê‚ª•ª‚©‚é‰Â”\«‚ª
-@‚‚»‚¤‚Å‚·B‚Æ‚¢‚¤‚±‚Æ‚ÅƒtƒB[ƒhƒoƒbƒN‚Í‚È‚­‚Ä‚à‚¢‚¯‚é‚Í‚¸‚Æ”»’f‚µA3TŠÔ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚É‚µ‚Ü‚µ‚½B
-@ƒJ[ƒh‚ðŠJ‚¯‚Ä‚Ý‚é‚ÆAˆÄ‚Ì’è“š‚¦‚ª‚í‚©‚è‚Ü‚µ‚½ulamborghiniv‚Å‚µ‚½B
-@1•¶Žš–Ú‚¾‚¯Å‰‚É‹³‚¦‚Ä‚à‚ç‚Á‚ÄŒã‚Í•À‚×‚Ä‚¢‚­‚¾‚¯A2‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Ì4‚Â–Ú‚Ìs“®‚ÅŠ®¬‚Å‚·B
-@
+‚±‚Ì‚æ‚¤‚ÈŒ`‚Å3‚Â‚Ì’PŒê‚Åƒ[ƒNƒVƒ‡ƒbƒv‚ðs‚¢‚Ü‚µ‚½B
+
+[Œ©o‚µ]1‰ñ–Ú
+
+Ž©•ª‚ÍŠJ”­ŽÒ–ð‚É‚È‚èAÅ‰‚Ì’PŒê‚Ìì‹Æ‚ÉŽæ‚èŠ|‚©‚è‚Ü‚·B
+Å‰‚Í1TŠÔ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚É‚µ‚Ü‚µ‚½Bƒqƒ“ƒg‚Íu‚Ý‚È‚³‚ñ‚ªD‚«‚È‚à‚Ìv‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
+“š‚¦‚Íuprogrammingv‚Å‚µ‚½B
+Å‰‚ÍƒtƒB[ƒhƒoƒbƒN‚ð‘½‚­‚µ‚ÄAƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ð1TŠÔ‚Æ‚µ‚Ü‚µ‚½B
+Å‰‚ÍŒŸ“¢‚à‚Â‚©‚¸AÅ‰‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Åæ“ª‚Ì•¶Žš‚¾‚¯‹³‚¦‚Ä‚à‚ç‚Á‚ÄAŽŸ‚Ìs“®‚Åp‚ð”z’uA
+‚»‚ÌŽŸ‚Ìs“®‚ÅA“K“–‚É•ê‰¹‚ð”z’u‚µ‚Ü‚µ‚½B
+2‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Å‚ÍA2•¶Žš–Ú‚ªŠÔˆá‚Á‚Ä‚¢‚½‚Ì‚Å‹³‚¦‚Ä‚à‚ç‚Á‚ÄA2•¶Žš–Ú‚ð“ü‚ê‘Ö‚¦3•¶Žš–Ú‚É
+•ê‰¹o‚ð•À‚×‚Ü‚µ‚½B
+3‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Å‚ÍA4•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚¢Ag‚ð4•¶Žš–Ú‚É”z’uAr‚ð5•¶Žš–Ú‚É”z’u‚µ‚Ü‚µ‚½B
+ƒI[ƒvƒ“‚³‚ê‚Ä‚¢‚½ƒJ[ƒh‚ªA‚ ‚Ü‚èƒVƒƒƒbƒtƒ‹‚³‚ê‚Ä‚¢‚È‚©‚Á‚½‚±‚Æ‚à‚ ‚èA‚±‚Ì‚ ‚½‚è‚Å‰ñ“š‚ª‚í‚©‚èA
+‚ ‚Æ‚Í•À‚×‚Ä‚¢‚­‚Æ‚¢‚Á‚½Œ`‚É‚È‚è‚Ü‚µ‚½B
+Œ‹‰Ê‚Æ‚µ‚Ä6TŠÔ‚©‚©‚è‚Ü‚µ‚½B
+
+‚â‚Á‚Ä‚Ý‚ÄŠ´‚¶‚½‚Ì‚ÍA’PŒê‚ª‚í‚©‚Á‚Ä‚µ‚Ü‚¤‚ÆAƒtƒB[ƒhƒoƒbƒN‚ª—v‚ç‚È‚­‚È‚éA‚»‚Ì•ª‚Ìs“®‚ª
+–³‘Ê‚É‚È‚èAŠJ”­‚É‰ñ‚µ‚½‚Ù‚¤‚ªŒø—¦“I‚¾A‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
+‚µ‚©‚µ¡‰ñ‚ÍÅ‰‚ÌŽæ‚ÁŠ|‚©‚è‚ª‚ ‚Ü‚è‚í‚©‚ç‚È‚©‚Á‚½‚Ì‚Å1TŠÔ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Å—Ç‚©‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB
+
+[Œ©o‚µ]2‰ñ–Ú
+
+2‰ñ–Ú‚Ìƒqƒ“ƒg‚ÍuJava‚ÌƒNƒ‰ƒX‚Å‚·v‚Æ‚¢‚¤‚à‚ÌB
+“š‚¦‚ÍuLinkedHashMapviŽÀÛ‚É‚Í‚·‚×‚Ä‘å•¶Žš‚ÌƒJ[ƒh‚Å‚·j
+‚±‚ê‚àAÅ‰‚ÍŠF–ÚŒ©“–‚ª‚Â‚©‚¸A1•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚Á‚ÄƒXƒ^[ƒgB
+2•¶Žš–ÚˆÈ~‚Í‚»‚ÌŒã‚Í“K“–‚É4•¶Žš•À‚×‚Ü‚µ‚½B
+ŽŸ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÅA2•¶Žš–Ú‚ð‹³‚¦‚Ä‚à‚ç‚¢A‚»‚±‚ÅŽ©•ª‚ª‚í‚©‚Á‚½‚Ì‚ÅA2`5•¶Žš–Ú‚ð’u‚«Š·‚¦A
+6•¶Žš–Ú‚ð”z’u‚µ‚Älinked‚Ü‚ÅŠ®¬A
+3‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÅA7`11•¶Žš‚Ü‚Å”z’u‚µlinkedhashm‚Ü‚ÅŠ®¬
+4‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Ì3‚Â–Ú‚Ìs“®‚Ålinkedhashmap‚ªŠ®¬‚µ‚Ü‚µ‚½B
+2‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Å‹C‚Ã‚¢‚½‚Ì‚Å—Ç‚©‚Á‚½‚Å‚·‚ªA‚»‚±‚Å‚í‚©‚ç‚È‚©‚Á‚½‚ç–³‘Ê‚É‚È‚Á‚Ä‚µ‚Ü‚¤s“®‚ª
+‘‚¦‚é‚È[A‚ÆŽv‚¢‚Ü‚µ‚½B
+
+[Œ©o‚µ]3‰ñ–Ú
+
+3‰ñ–Ú‚Ìƒqƒ“ƒg‚ÍuŽÔ‚Ìƒ[ƒJ[A11•¶Žšv‚Æ‚¢‚¤‚à‚Ì‚Å‚µ‚½B
+‚±‚ê‚ÍA‚©‚È‚è’PŒê‚ªŒÀ’è‚³‚ê‚é‚¾‚ë‚¤A‚Æ‚¢‚¤‚±‚Æ‚ÅƒI[ƒvƒ“‚³‚ê‚½ƒJ[ƒh‚ðŒ©‚Ä’PŒê‚ª•ª‚©‚é‰Â”\«‚ª
+‚‚»‚¤‚Å‚·B‚Æ‚¢‚¤‚±‚Æ‚ÅƒtƒB[ƒhƒoƒbƒN‚Í‚È‚­‚Ä‚à‚¢‚¯‚é‚Í‚¸‚Æ”»’f‚µA3TŠÔ‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚É‚µ‚Ü‚µ‚½B
+ƒJ[ƒh‚ðŠJ‚¯‚Ä‚Ý‚é‚ÆAˆÄ‚Ì’è“š‚¦‚ª‚í‚©‚è‚Ü‚µ‚½ulamborghiniv‚Å‚µ‚½B
+1•¶Žš–Ú‚¾‚¯Å‰‚É‹³‚¦‚Ä‚à‚ç‚Á‚ÄŒã‚Í•À‚×‚Ä‚¢‚­‚¾‚¯A2‰ñ–Ú‚ÌƒCƒeƒŒ[ƒVƒ‡ƒ“‚Ì4‚Â–Ú‚Ìs“®‚ÅŠ®¬‚Å‚·B
+
+ƒ[ƒNƒVƒ‡ƒbƒv‚ðI‚¦‚Ä‚Ý‚ÄAƒ`[ƒ€“à‚Åo‚½˜b‚Æ‚µ‚Ä‚ÍA‰p’PŒê‚¾‚Æ“r’†‚Ü‚Å‚­‚ê‚ÎŒã‚Í‘z’è‚ª‚Â‚­‚¯‚ÇA
+ŽÀÛ‚ÌƒvƒƒWƒFƒNƒg‚Å‚ÍAƒXƒg[ƒŠ[‚ðŠô‚Â‚©ŽÀŒ»‚µ‚Ä‚¢‚­‚±‚Æ‚É‚È‚é‚¯‚ÇA”¼•ª‚ÌƒXƒg[ƒŠ[‚ª‚Å‚«‚½‚©‚ç‚Æ
+‚¢‚Á‚ÄAŽc‚è”¼•ª‚ÌƒXƒg[ƒŠ[‚ÌƒtƒB[ƒhƒoƒbƒN‚ª—v‚ç‚È‚¢ó‹µ‚É‚È‚é‚©‚Æ‚¢‚¤‚Æˆá‚¤‚æ‚ËA‚Æ‚¢‚¤‚à‚Ì‚ª‚ ‚è‚Ü‚µ‚½B
+
 ‚»‚ÌŒãŠeƒe[ƒuƒ‹‚©‚ç‚ÌŠ´‘z‚ÅA‚¤‚¿‚Ìƒe[ƒuƒ‹‚©‚ç‚Í‚Ç‚¤‚¹ˆê‚©”ª‚©ƒtƒB[ƒhƒoƒbƒN‚ð‚È‚­‚·‚È‚çA
 4TŠÔ‚ð1ƒCƒeƒŒ[ƒVƒ‡ƒ“‚É‚µ‚Ä‚µ‚Ü‚¦‚ÎAƒCƒeƒŒ[ƒVƒ‡ƒ“Œv‰æ‚Å1A•¶Žš‚ð•À‚×‚é‚Ì‚É11‚Å‚Ò‚Á‚½‚è4TŠÔ‚É
 Žû‚Ü‚Á‚½‚Ì‚ÅA‚»‚¤‚·‚×‚«‚¾‚Á‚½‚Æ‚¢‚¤‚±‚Æ‚ð˜b‚µ‚Ü‚µ‚½B
@@ -126,30 +136,30 @@ AgileŠJ”­‚Ìˆê”Ê“I‚Èƒ‚ƒfƒ‹‚ð‘¨‚¦‚é‚Æ‚¢‚¤‚±‚Æ‚ÅA‚Ü‚¸ƒŠƒŠ[ƒXŒv‰æ‚ª‚ ‚èAƒCƒeƒŒ[ƒ
 \‘¢‚ð’è‹`‚µ‚Ü‚·BƒCƒeƒŒ[ƒVƒ‡ƒ“‚É‚ÍPlanning‚ª‚ ‚èImplimentation‚ª‚ ‚èAReviewARelease‚ª‚ ‚éA‚Æ‚¢‚¤
 Œ`‚É‚È‚Á‚Ä‚¢‚Ü‚·B
 
-ŠeƒtƒF[ƒY‚ÅA‚¢‚Ü‚Ü‚Å‚Ì‚¢‚ë‚¢‚ë‚ÈŒ¤‹†‚ðŒ³‚ÉƒvƒƒWƒFƒNƒg–ˆ‚ÌƒRƒ“ƒeƒLƒXƒg‚Ì—v‘f‚ðInput‚Æ‚µ‚ÄAƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ð
-Output‚·‚é‚æ‚¤‚É’èŽ®‰»‚µ‚Ü‚·B5‚Â‚Ì—v‘f‚Æ‚ÍA
+ŠeƒtƒF[ƒY‚ÅA‚¢‚Ü‚Ü‚Å‚Ì‚¢‚ë‚¢‚ë‚ÈŒ¤‹†‚ðŒ³‚ÉƒvƒƒWƒFƒNƒg–ˆ‚ÌƒRƒ“ƒeƒLƒXƒg‚Ì—v‘f‚ðInput‚Æ‚µ‚ÄA
+ƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ðOutput‚·‚é‚æ‚¤‚É’èŽ®‰»‚µ‚Ü‚·B5‚Â‚Ì—v‘f‚Æ‚ÍA
 @EDuration(ŠúŠÔj
 @EDeveloper(ŠJ”­ŽÒ)
 @ERequirements(—v‹Ad—v“x‚Æ‹K–Í(ƒRƒXƒg))
 @EComplexity(•¡ŽG«EˆË‘¶ŠÖŒW)
 @EUncertainty(—v‹•ÏX‚Ì“x‡‚¢)
-‚Å‚µ‚½B
+‚Æ‚È‚Á‚Ä‚¢‚Ü‚·B
 ‚±‚ÌƒVƒ~ƒ…ƒŒ[ƒ^‚ð‰i˜a‚³‚ñ‚ÌŽ–—áƒŒƒ|[ƒg‚É‘Î‚µ‚Ä“K—p‚µ‚½‚Æ‚±‚ëA6“ú‚ÆŽZo‚³‚ê‚½‚»‚¤‚Å‚·B
 ŽÀÛ‚Í1TŠÔ‚Å‰ñ‚µ‚Ä‚¢‚ÄAƒƒ“ƒo‚©‚ç‚Í‚à‚¤­‚µ’·‚­‚Ä‚à—Ç‚©‚Á‚½‚Ì‚Å‚ÍA‚Æ‚¢‚¤Š´‘z‚ª‚ ‚Á‚½‚ç‚µ‚­
-ˆê‰ž“IŠO‚ê‚Å‚Í‚È‚¢ŠúŠÔ‚ªo‚Ä‚¢‚é‚Ì‚Å‚Í‚Æ‚¢‚¤‚±‚Æ‚Å‚·B
+ˆê‰ž“IŠO‚ê‚Å‚Í‚È‚¢ŠúŠÔ‚ªo‚Ä‚¢‚é‚Ì‚Å‚Í‚Æ‚¢‚¤‚±‚Æ‚Å‚µ‚½B
 
 —v‘f‚Æ‚µ‚Ä‚ÍUncertainty‚ÆComplexity‚É’–Ú‚³‚ê‚Ä‚¢‚ÄAUncertainty‚ÉŠÖ‚µ‚Ä‚Í•ÏX‚ª‘½‚¯‚ê‚ÎA
 ŠúŠÔ‚ð’Z‚­‚È‚é‚Æ‚¢‚¤‘ŠŠÖ‚ªAComplexity‚É‚Â‚¢‚Ä‚Í•¡ŽG‚É‚È‚ê‚ÎŠúŠÔ‚ð’·‚­‚·‚é‚Æ‚¢‚¤‘ŠŠÖ‚ª
 Œ©‚ç‚ê‚é‚Æ‚Ì‚±‚Æ‚Å‚µ‚½B
 ‚½‚¾‚µAˆê”Ô•ÏX‚ª‘½‚¢ƒP[ƒX‚É‚Â‚¢‚Ä‚ÍA•¡ŽG«‚ªˆê”Ô‚‚¢Žž‚ÉŠúŠÔ‚ª1”Ô’Z‚­‚È‚Á‚Ä‚¢‚Ü‚µ‚½B
-(Œ©ŠÔˆá‚¢‚Å‚È‚¯‚ê‚ÎB‚»‚±‚ðŽ¿‹^‰ž“š‚Å•·‚±‚¤‚Æ‚µ‚½‚ñ‚Å‚·‚ªŽžŠÔØ‚ê‚Å•·‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B
-§e‰ï‚Å•·‚±‚¤‚ÆŽv‚Á‚Ä‚½‚ñ‚Å‚·‚ªA–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B)
-
+(Œ©ŠÔˆá‚¢‚Å‚È‚¯‚ê‚Î‚Å‚·‚ªB‚»‚±‚ðŽ¿‹^‰ž“š‚Å•·‚±‚¤‚Æ‚µ‚½‚ñ‚Å‚·‚ªŽžŠÔØ‚ê‚Å•·‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B
+§e‰ï‚Å•·‚±‚¤‚ÆŽv‚Á‚Ä‚½‚ñ‚Å‚·‚ªA‚·‚Á‚©‚è–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B)
 
 ÅŒã‚ÉŽ¿‹^‰ž“š
-Eƒ[ƒNƒVƒ‡ƒbƒv‚ÌŒ‹‰Ê‚©‚çA“r’†‚ÅƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÌŠúŠÔ‚ð•Ï‚¦‚½‚Ù‚¤‚ªŒø‰Ê“I‚¾‚ÆŠ´‚¶‚½‚¯‚ê‚Ç
-@‚»‚Ì‚æ‚¤‚ÈŒ¤‹†‚Í‚³‚ê‚Ä‚¢‚Ü‚·‚©HB
-@ƒVƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“‚Å‚Í“r’†‚ÅƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ð•Ï‚¦‚é‚Æ‚¢‚¤‚±‚Æ‚àl—¶‚Í‚µ‚Ä‚¢‚éB
+uƒ[ƒNƒVƒ‡ƒbƒv‚ÌŒ‹‰Ê‚©‚çA“r’†‚ÅƒCƒeƒŒ[ƒVƒ‡ƒ“‚ÌŠúŠÔ‚ð•Ï‚¦‚½‚Ù‚¤‚ªŒø‰Ê“I‚¾‚ÆŠ´‚¶‚½‚¯‚ê‚Ç
+‚»‚Ì‚æ‚¤‚ÈŒ¤‹†‚Í‚³‚ê‚Ä‚¢‚Ü‚·‚©HBv‚Æ‚ÌŽ¿–â‚É‘Î‚µ‚Ä‚ÍAƒVƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“‚Å‚Í“r’†‚Å
+ƒCƒeƒŒ[ƒVƒ‡ƒ“ŠúŠÔ‚ð•Ï‚¦‚ç‚ê‚é‚æ‚¤‚É‚Í‚È‚Á‚Ä‚¢‚é‚Æ‚Ì‚±‚Æ‚ÅA¡Œã‚»‚Ì‚æ‚¤‚ÈŽ‹“_‚Å‚ÌŒ¤‹†‚Ì¬‰Ê‚ª
+‚Å‚Ä‚­‚é‚Æ–Ê”’‚¢‚È‚ÆŽv‚¢‚Ü‚µ‚½B
 
 [Œ©o‚µ]Š´‘z
 
@@ -158,20 +168,10 @@ Output‚·‚é‚æ‚¤‚É’èŽ®‰»‚µ‚Ü‚·B5‚Â‚Ì—v‘f‚Æ‚ÍA
 ƒtƒB[ƒhƒoƒbƒN‚È‚Ç‚ÌƒRƒXƒg‚ª‚»‚±‚»‚±Š|‚©‚Á‚Ä‚µ‚Ü‚¤‚Ì‚ÅA‚»‚ê‚ð‚Ç‚Ì’ö“x‚Ì•p“x‚Å‚â‚é‚Ì‚©A
 ‚Æ‚¢‚Á‚½‚±‚Æ‚Í‚½‚µ‚©‚Él‚¦‚È‚¢‚Æ‚¢‚¯‚È‚¢‚È‚ŸA‚ÆŠ´‚¶‚Ü‚µ‚½B
 
-‚Ü‚½AŽ¿‹^‰ž“š‚Åo‚½‚æ‚¤‚ÉAƒvƒƒWƒFƒNƒg‚Ì“r’†‚ÅƒCƒeƒŒ[ƒVƒ‡ƒ“‚Ì’·‚³‚ð•Ï‚¦‚é‚Æ‚¢‚¤‚Ì‚ÍA—LŒø‚È‹C‚ª
-‚·‚é‚Ì‚ÅA¡Œã‚»‚Ì‚æ‚¤‚ÈŽ‹“_‚Å‚ÌŒ¤‹†Œ‹‰Ê‚È‚Ç‚ª‚Å‚Ä‚­‚é‚Æ–Ê”’‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB
+uƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ÍƒRƒXƒg‚Å‚ ‚év‚Æ‚¢‚¤l‚¦‚à‚ ‚é‚æ‚¤‚ÉA‚¢‚©‚ÉŒø—¦‚Ì—Ç‚­ƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚·‚é‚©A
+‚Æ‚¢‚¤ŠÏ“_‚ªd—v‚¾‚ÈA‚Æ‰ü‚ß‚ÄŽv‚¢‚Ü‚µ‚½B‚½‚¾A•ûŒü«‚Æ‚µ‚Ä‚ÍAuƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ÍƒRƒXƒg‚É‚È‚é‚Ì‚Å
+‚È‚é‚×‚­­‚È‚­‚ÄÏ‚Þ‚æ‚¤‚É‚·‚év‚Å‚Í‚È‚­AuƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ªƒRƒXƒg‚É‚È‚ç‚È‚¢‚æ‚¤‚É‚µ‚ÄA‚æ‚è‘½‚­
+ƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚Å‚«‚é‚æ‚¤‚É‚·‚év‚Æ‚¢‚¤‚Ù‚¤‚ª³‚µ‚¢‚ñ‚¾‚ë‚¤‚È‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B
 
 ÅŒã‚Æ‚È‚è‚Ü‚·‚ªA—LˆÓ‹`‚ÈƒZƒbƒVƒ‡ƒ“‚ÉŽQ‰Á‚Å‚«‚Ä‚æ‚©‚Á‚½‚Å‚·B
 •lè‚³‚ñA˜hèæ¶A‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B
-
-
-
-
-@
-@
-@
-
-
-
-
-
